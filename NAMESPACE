@@ -1,0 +1,9 @@
+useDynLib(GSReg)
+
+export(GSReg.GeneSets.EVA)
+export(GSReg.GeneSets.DIRAC)
+export(GSReg.kendall.tau.distance.restricted)
+export(GSReg.kendall.tau.distance.template)
+export(GSReg.kendall.tau.distance)
+export(GSReg.overlapJunction)
+export(GSReg.SEVA)
